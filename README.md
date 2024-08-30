@@ -8,7 +8,9 @@
 
 **NIM : 09011282328122**
 
-**DAFTAR 50 COMMAND PROMPT LINUX UBUNTU**
+
+**DAFTAR 50 COMMAND PROMPT LINUX UBUNTU :**
+
 
 **1. sudo apt- get update**
 
@@ -82,82 +84,112 @@ Command prompt ini berfungsi untuk mengakses folder/direktory yang bernama Docum
 
 Command prompt ini berfungsi untuk membuat sebuah direktori baru yang bernama Miki-Purnawan (untuk mengecek apakah berhasil bisa ketik ls)
 
-**12. pwd**
+**13. pwd**
 
 ![cml13](https://github.com/user-attachments/assets/42966205-bb1f-474d-a8d3-ecd9ed43e757)
 
 Command Prompt ini berfungsi untuk menampilkan path apa yang sedang kita akses saat ini
 
-**13. rmdir Miki-Purnawan**
+**14. rmdir Miki-Purnawan**
 
 ![cml14](https://github.com/user-attachments/assets/efe1f51c-9d75-4cd0-932b-811dc5d832d9)
 
 Command Prompt ini berfungsi untuk menghapus direktori yang bernama Miki-Purnawan
 
-**14. rm sample2.txt**
+**15. rm sample2.txt**
 
 ![cml15](https://github.com/user-attachments/assets/133ba010-3797-400f-b43d-affd4f8a8758)
 
 Command prompt ini berfungsi untuk menghapus file yang bernama sample2.txt
 
-**15. cp sample3.txt sample1.txt**
+**16. cp sample3.txt sample1.txt**
 
 ![cml16](https://github.com/user-attachments/assets/7bd1c855-237d-417c-8096-21afba83c62e)
 
 Command prompt ini berfungsi untuk menyalin sebuah file bernama sample3.txt yang kemudian diubah namanya menjadi sample1.txt
 
-**16. mv sample1.txt /home/miki-purnawan/Documents**
+**17. mv sample1.txt /home/miki-purnawan/Documents**
 
 ![cml17](https://github.com/user-attachments/assets/a30adbd5-f53d-45bb-9366-445c21c7f060)
 
 Command prompt ini berfungsi untuk memindahkan file sample1.txt ke directory Documents
 
-**17. touch ak47.doc**
+**18. touch ak47.doc**
 
 ![cml18](https://github.com/user-attachments/assets/30e35665-be78-4df5-9e3e-a711ef62bb01)
 
 Command prompt ini berfungsi untuk membuat file baru yang bernama ak47.doc
 
-**18. cat sample1.txt**
+**19. cat sample1.txt**
 
 ![cml19](https://github.com/user-attachments/assets/e5b40578-57c7-4b5d-8774-c9b896fb9fee)
 
 Command prompt ini berfungsi untuk membuka isi file dari sample1.txt
 
-**19. more sample1.txt**
+**20. more sample1.txt**
 
 ![cml20](https://github.com/user-attachments/assets/b224f799-77af-40b3-86fe-7fe36848f122)
 
 Command prompt ini berfungsi untuk membuka isi file secara bertahap dari sample1.txt
 
-**20. less sample1.txt**
+**21. less sample1.txt**
 
 ![cml21(1)](https://github.com/user-attachments/assets/ec246400-d1db-4757-a018-93767ea9fd29)
 ![cml21(2)](https://github.com/user-attachments/assets/0f02fd4d-6c68-469c-9eb0-54d3cac080d0)
 
 Command prompt ini berfungsi untuk melihat isi file teks atau output perintah yang panjang dengan cara yang mudah dibaca, tanpa harus membuka seluruh file sekaligus serta terdapat navigasi nya juga.
 
-**21. head -5 sample1.txt**
+**22. head -5 sample1.txt**
 
 ![cml22](https://github.com/user-attachments/assets/450be859-81d8-4b37-941a-446b34aaeb5f)
 
 Command prompt ini berfungsi untuk menampilkan 5 baris pertama dari file sample1.txt
 
-**22. tail -n 2 sample1.txt**
+**23. tail -n 2 sample1.txt**
 
 ![cml23](https://github.com/user-attachments/assets/b7df6742-1b52-4a96-a03c-81fd46370400)
 
 Command prompt ini berfungsi untuk membuka 2 baris terakhir dari file sample1.txt
-![cml24](https://github.com/user-attachments/assets/f531addf-d7e9-420d-bebb-0b39467cb992)
 
-**23. **
+**24. sudo apt install plocate**
 
 ![cml25](https://github.com/user-attachments/assets/3e23505a-0250-40b1-8a13-b46fbcf39c7f)
+
+Command prompt ini berfungsi untuk mengintstall package plocate agar bisa menggunakan command locate
+
+**25. locate Jurnal.pdf**
+
 ![cml26](https://github.com/user-attachments/assets/548f1f27-6865-4025-8f51-936e1bb3b4f6)
+
+Command prompt ini berfungsi untuk menampilkan lokasi dari file yang bernama Jurnal.pdf
+
+**26. which pwd**
+
 ![cml27](https://github.com/user-attachments/assets/512da47b-f2af-4eba-9fde-fec617869409)
+
+Command prompt ini berfungsiuntuk menampilkan dimana lokasi bin dari perintah yang sedang dijalankan contohnya pwd
+
+**27. whereis ls**
+
 ![cml28](https://github.com/user-attachments/assets/3b817e7e-7ddd-4f6b-a4fb-b55f3aaeb8ce)
+
+Command prompt ini berfungsi untuk menampilkan lokasi file atau program yang sedang dijalankan contohnya yaitu ls
+
+**28. ps**
+
 ![cml29](https://github.com/user-attachments/assets/7f0fc3d9-6b8a-48bb-becc-f361fdda5819)
+
+Command ini berfungsi untuk Menampilkan proses yang dijalankan oleh pengguna saat ini di terminal
+
+**29. top**
+
 ![cml30](https://github.com/user-attachments/assets/e1be6f83-c2be-4405-926c-66c515f77876)
+
+Command prompt ini berfungsi untuk menampilkan proses yang sedang berjalan dalam format yang dinamis dan interaktif. Ini memberikan gambaran real-time dari sistem, termasuk informasi tentang penggunaan CPU, memori, dan status proses.
+
+
+**30. **
+
 ![cml31(1)](https://github.com/user-attachments/assets/4dc0f618-3571-483f-a4ce-59bdabb4f11c)
 ![cml31](https://github.com/user-attachments/assets/122c8a6f-f517-4aa4-96c0-9df555934f58)
 ![cml32](https://github.com/user-attachments/assets/1f8455b0-3d62-42d7-b541-bd7bcf4c347f)
