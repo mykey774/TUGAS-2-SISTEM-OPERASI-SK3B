@@ -14,7 +14,7 @@
 
 ![cml1](https://github.com/user-attachments/assets/c11347de-1b71-4142-9d26-10874e3839a9)
 
-Command prompt ini berfungsi untuk memperbarui daftar package yang ada di linux
+Command prompt ini berfungsi untuk memperbarui informasi yang ada pada "sudo apt- get upgrade"
 
 **2. clear**
 
@@ -26,7 +26,7 @@ Command prompt ini berfungsi untuk menghapus/membersihkan semua command prompt y
 
 ![cml3](https://github.com/user-attachments/assets/4ca2a405-fb93-4ac3-a792-9b72e9ba3cc3)
 
-
+Command prompt ini berfungsi untuk memperbarui daftar package yang ada pada resitory sistem
 
 
 ![cml4](https://github.com/user-attachments/assets/20091962-08d0-41c5-9bba-3588e515d885)
