@@ -56,7 +56,15 @@ Command prompt ini berfungsi untuk mengecek koneksi pada ip address 10.0.2.15
 
 ![cml8](https://github.com/user-attachments/assets/87467492-c918-4938-a30d-fe4e941ee7a0)
 
+Command prompt ini berfungsi untuk menampilkan daftar koneksi dan port yang terhubung
+
+**9. route**
+
 ![cml9](https://github.com/user-attachments/assets/ff41cfd5-afe7-4756-9848-8d95ce157872)
+
+Command prompt ini berfungsi untuk menampilkan table routing
+
+**10. **
 
 ![cml10](https://github.com/user-attachments/assets/19f000e6-adcf-44b2-8795-4ef04aed8441)
 
