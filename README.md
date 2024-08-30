@@ -188,19 +188,62 @@ Command ini berfungsi untuk Menampilkan proses yang dijalankan oleh pengguna saa
 Command prompt ini berfungsi untuk menampilkan proses yang sedang berjalan dalam format yang dinamis dan interaktif. Ini memberikan gambaran real-time dari sistem, termasuk informasi tentang penggunaan CPU, memori, dan status proses.
 
 
-**30. **
+**30. nano sample1.txt**
 
 ![cml31](https://github.com/user-attachments/assets/122c8a6f-f517-4aa4-96c0-9df555934f58)
 ![cml31(1)](https://github.com/user-attachments/assets/4dc0f618-3571-483f-a4ce-59bdabb4f11c)
+
+Command prompt ini berfungsi untuk membuka file sample1.txt menggunakan teks editor nano sehingga isi file nya bisa diubah-ubah
+
+**31. sudo apt install vim**
+
 ![cml32](https://github.com/user-attachments/assets/1f8455b0-3d62-42d7-b541-bd7bcf4c347f)
+
+Command prompt ini berfungsi untuk menginstall sebuah teks editor bernama vim
+
+**32. sudo apt install vim-gtk3**
+
 ![cml33](https://github.com/user-attachments/assets/7bf3b3ef-1381-4761-aa25-750ce106da01)
+
+Command prompt berfungsi untuk menginstal Vim dengan dukungan GTK3, yang menyediakan antarmuka grafis untuk editor teks Vim.
+
+**33. man ls**
+
 ![cml34(1)](https://github.com/user-attachments/assets/9461cac6-b909-433b-800b-1306ac259385)
 ![cml34](https://github.com/user-attachments/assets/1c6a27f3-7da3-4447-abeb-5d29b110e3c0)
+
+Command prompt ini berfungsi untuk  membuka manual halaman (man page) dari perintah ls. Halaman manual ini memberikan dokumentasi dan penjelasan tentang cara menggunakan perintah ls, termasuk berbagai opsi dan argumen yang dapat digunakan dengan perintah tersebut.
+
+**34. echo Raja Linux**
+
 ![cml35](https://github.com/user-attachments/assets/63b2d702-ccc1-433b-ae6e-799b400c1924)
+
+Command prompt ini berfungsi untuk menampilkan teks yang ditulis contohnya teks "Raja Linux"
+
+**35. date**
+
 ![cml36](https://github.com/user-attachments/assets/fa9df7ae-4ce4-436d-9afd-86a691c2da64)
+
+Command prompt ini berfungsi untuk menampilkan hari, tanggal dan waktu pada saat ini
+
+**36. sudo apt install ncal**
+
 ![cml37](https://github.com/user-attachments/assets/0750583c-1316-4f3d-9d5b-12a0c583bf94)
+
+Command prompt ini berfungsi untuk menginstall package ncal agar bisa menggunakan prompt cal 
+
+**37. cal**
+
 ![cml38](https://github.com/user-attachments/assets/ef927480-a53a-4eaf-aaf8-f5a6b24e0b66)
+
+Command prompt ini berfungsi untuk menampilkan kalender pada bulan saat ini
+
+**38. df**
+
 ![cml39](https://github.com/user-attachments/assets/4af169ab-f16a-4674-8cfb-d5b7f4c1c68b)
+
+Command prompt ini berfungsi untuk menampilkan informasi tentang ruang disk yang tersedia pada sistem file.
+
 ![cml40](https://github.com/user-attachments/assets/03614ff0-96fd-4b7b-96b5-f104067c2ca2)
 ![cml41](https://github.com/user-attachments/assets/ee55f439-9791-45ca-b773-47787378f130)
 ![cml42](https://github.com/user-attachments/assets/031ed9ce-e092-4d54-a548-bfb9adde3b47)
