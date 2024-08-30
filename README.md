@@ -286,14 +286,33 @@ Command prompt ini berfungsi untuk menginstal aplikasi curl menggunakan Snap, ya
 
 Command prompt ini berfungsi untuk menampilkan header dari respons HTTP serta body dari respons tersebut saat Anda menggunakan curl untuk membuat permintaan HTTP
 
+**46. free -h**
+
 ![cml47](https://github.com/user-attachments/assets/3b150e30-7b93-44e1-9e4d-3c467c788e7b)
 
+Command prompt ini berfungsi untuk menampilkan informasi mengenai penggunaan memori sistem dalam format yang mudah dibaca oleh manusia. Opsi -h berarti "human-readable" yang menyajikan ukuran memori dalam unit yang lebih mudah dipahami, seperti kilobyte (KB), megabyte (MB), atau gigabyte (GB)
 
-
-****
+**47. uptime**
 
 ![cml48](https://github.com/user-attachments/assets/194d7585-92b0-40ad-aaf3-03d1c302c40f)
+
+Command prompt ini berfungsi untuk menampilkan berapa lama sistem telah berjalan (uptime), serta beberapa informasi tambahan tentang beban sistem
+
+**48. ss**
+
 ![cml49](https://github.com/user-attachments/assets/7d191efc-d528-4016-b6e4-b06765deebbe)
+
+Command prompt ini berfungsi untuk menampilkan informasi mengenai soket (socket) di sistem. ss (short for "socket stat") sering digunakan untuk menggantikan perintah netstat yang lebih lama karena lebih cepat dan memberikan informasi yang lebih rinci
+
+**49. sudo apt install traceroute**
+
 ![cml50](https://github.com/user-attachments/assets/7fce76fd-b064-4d95-88f8-e9d749778cda)
+
+Command prompt ini berfungsi untuk menginstal package traceroute pada sistem berbasis Debian atau Ubuntu
+
+**50. traceroute google.com**
+
 ![cml51](https://github.com/user-attachments/assets/718c0a97-8e44-488c-bdef-51c64fb6e2a4)
+
+Command prompt ini berfungsi untuk melacak jalur (path) yang dilalui oleh paket data dari komputer Anda menuju server yang meng-host Google, atau lebih umum, domain yang Anda sebutkan. Ini membantu dalam memeriksa rute jaringan yang diambil oleh data dalam perjalanan dari sumber ke tujuan.
 
