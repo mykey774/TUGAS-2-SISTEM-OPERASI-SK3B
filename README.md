@@ -10,19 +10,19 @@
 
 **DAFTAR 50 COMMAND PROMPT LINUX UBUNTU**
 
-1. sudo apt- get update
+**1. sudo apt- get update**
 
 ![cml1](https://github.com/user-attachments/assets/c11347de-1b71-4142-9d26-10874e3839a9)
 
 Command prompt ini berfungsi untuk memperbarui daftar package yang ada di linux
 
-2. clear
+**2. clear**
 
 ![cml2](https://github.com/user-attachments/assets/ab8b9e1d-c592-4a71-bccf-e23259cbdb34)
 
 Command prompt ini berfungsi untuk menghapus/membersihkan semua command prompt yang sudah digunakan
 
-3. 
+**3. sudo apt- get upgrade** 
 
 ![cml3](https://github.com/user-attachments/assets/4ca2a405-fb93-4ac3-a792-9b72e9ba3cc3)
 
