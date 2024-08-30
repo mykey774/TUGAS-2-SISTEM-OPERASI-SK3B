@@ -34,7 +34,7 @@ Command prompt ini berfungsi untuk memperbarui daftar package yang ada pada resi
 
 Command Prompt ini berfungsi untuk menampilkan riwayat command prompt yang sudah digunakan
 
-**5. sudo apt install net -tools**
+**5. sudo apt install net-tools**
 
 ![cml5](https://github.com/user-attachments/assets/1aff85b7-123e-4b64-a96f-70a5133ca6d5)
 
@@ -46,9 +46,13 @@ Command prompt ini berfungsi untuk menginstall tools agar bisa menggunakan perin
 
 Command prompt ini berfungsi untuk menampilkan daftar informasi jaringan perangkat seperti ip address, sub netmask
 
-**7. ping**
+**7. ping 10.0.2.15**
 
 ![cml7](https://github.com/user-attachments/assets/1a165b3a-457b-44cb-9cc5-56e44ad1d9fd)
+
+Command prompt ini berfungsi untuk mengecek koneksi pada ip address 10.0.2.15
+
+**8. netstat -a**
 
 ![cml8](https://github.com/user-attachments/assets/87467492-c918-4938-a30d-fe4e941ee7a0)
 
