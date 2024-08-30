@@ -16,9 +16,12 @@
 
 Command prompt ini berfungsi untuk memperbarui daftar package yang ada di linux
 
+2. clear
 ![cml2](https://github.com/user-attachments/assets/ab8b9e1d-c592-4a71-bccf-e23259cbdb34)
 
+Command prompt ini berfungsi untuk menghapus/membersihkan semua command prompt yang sudah digunakan
 
+3. 
 ![cml3](https://github.com/user-attachments/assets/4ca2a405-fb93-4ac3-a792-9b72e9ba3cc3)
 
 ![cml4](https://github.com/user-attachments/assets/20091962-08d0-41c5-9bba-3588e515d885)
