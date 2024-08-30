@@ -64,8 +64,9 @@ Command prompt ini berfungsi untuk menampilkan daftar koneksi dan port yang terh
 
 Command prompt ini berfungsi untuk menampilkan table routing
 
-**10. **
+**10. ls**
 
 ![cml10](https://github.com/user-attachments/assets/19f000e6-adcf-44b2-8795-4ef04aed8441)
 
+Command prompt ini berfungsi untuk menampilkan daftar file serta direktori pada suatu path
 
