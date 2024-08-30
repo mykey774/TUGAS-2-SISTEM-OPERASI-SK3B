@@ -29,6 +29,7 @@ Command prompt ini berfungsi untuk menghapus/membersihkan semua command prompt y
 Command prompt ini berfungsi untuk memperbarui daftar package yang ada pada resitory sistem
 
 **4. history**
+
 ![cml4](https://github.com/user-attachments/assets/20091962-08d0-41c5-9bba-3588e515d885)
 
 Command Prompt ini berfungsi untuk menampilkan riwayat command prompt yang sudah digunakan
@@ -37,8 +38,15 @@ Command Prompt ini berfungsi untuk menampilkan riwayat command prompt yang sudah
 
 ![cml5](https://github.com/user-attachments/assets/1aff85b7-123e-4b64-a96f-70a5133ca6d5)
 
+Command prompt ini berfungsi untuk menginstall tools agar bisa menggunakan perintah yang berhubungan dengan jaringan
+
+**6. ifconfig**
 
 ![cml6](https://github.com/user-attachments/assets/92d7532b-d7f7-4909-a39b-36c52f25abb9)
+
+Command prompt ini berfungsi untuk menampilkan daftar informasi jaringan perangkat seperti ip address, sub netmask
+
+**7. ping**
 
 ![cml7](https://github.com/user-attachments/assets/1a165b3a-457b-44cb-9cc5-56e44ad1d9fd)
 
