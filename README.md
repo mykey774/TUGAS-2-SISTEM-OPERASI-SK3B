@@ -244,14 +244,54 @@ Command prompt ini berfungsi untuk menampilkan kalender pada bulan saat ini
 
 Command prompt ini berfungsi untuk menampilkan informasi tentang ruang disk yang tersedia pada sistem file.
 
+**39. df -h**
+
 ![cml40](https://github.com/user-attachments/assets/03614ff0-96fd-4b7b-96b5-f104067c2ca2)
+
+Command prompt ini berfungsi untuk menampilkan informasi tentang ruang disk yang tersedia pada sistem file tetapi lebih mudah untuk dibaca manusia karena ada "-h" yaitu human readable
+
+**40. gzip Jurnal.pdf**
+
 ![cml41](https://github.com/user-attachments/assets/ee55f439-9791-45ca-b773-47787378f130)
+
+Command prompt ini berfungsi untuk mengkompress file Jurnal.pdf menjadi sebuah arsip dengan tipe gzip
+
+**41. gunzip Jurnal.pdf.gz**
+
 ![cml42](https://github.com/user-attachments/assets/031ed9ce-e092-4d54-a548-bfb9adde3b47)
+
+Command prompt ini berfungsi untuk mendekompress arsip Jurnal.pdf.gz menjadi sebuah file biasa
+
+**42. unzip KIBOY.zip**
+
 ![cml43](https://github.com/user-attachments/assets/51547a65-d1fd-4875-a962-5ec7aec11da8)
+
+Command prompt ini berfungsi untuk mendekompress file arsip bertipe zip yaitu KIBOY.zip menjadi sebuah file/folder biasa 
+
+**43. wget (url yang ingin digunakan)**
+
 ![cml44](https://github.com/user-attachments/assets/25374c7c-b32d-4d9f-8158-e019dbea02e9)
+
+Command prompt ini berfungsi untuk mendownload sebuah file dari website/url yang diinginkan contoh di gambar nya yaitu file MIRACLEBOY dari url yang dituju
+
+**44. sudo snap install curl**
+
 ![cml45](https://github.com/user-attachments/assets/5ed05661-6c6a-4082-83ec-d442e010e8ca)
+
+Command prompt ini berfungsi untuk menginstal aplikasi curl menggunakan Snap, yang merupakan sistem manajemen paket dan distribusi perangkat lunak untuk sistem operasi berbasis Linux
+
+**45. curl -i (website yang ingin dituju, contohnya website firefox.com)**
+
 ![cml46](https://github.com/user-attachments/assets/253d2a8e-f367-4b21-91f7-62234e2c566f)
+
+Command prompt ini berfungsi untuk menampilkan header dari respons HTTP serta body dari respons tersebut saat Anda menggunakan curl untuk membuat permintaan HTTP
+
 ![cml47](https://github.com/user-attachments/assets/3b150e30-7b93-44e1-9e4d-3c467c788e7b)
+
+
+
+****
+
 ![cml48](https://github.com/user-attachments/assets/194d7585-92b0-40ad-aaf3-03d1c302c40f)
 ![cml49](https://github.com/user-attachments/assets/7d191efc-d528-4016-b6e4-b06765deebbe)
 ![cml50](https://github.com/user-attachments/assets/7fce76fd-b064-4d95-88f8-e9d749778cda)
