@@ -190,8 +190,8 @@ Command prompt ini berfungsi untuk menampilkan proses yang sedang berjalan dalam
 
 **30. **
 
-![cml31(1)](https://github.com/user-attachments/assets/4dc0f618-3571-483f-a4ce-59bdabb4f11c)
 ![cml31](https://github.com/user-attachments/assets/122c8a6f-f517-4aa4-96c0-9df555934f58)
+![cml31(1)](https://github.com/user-attachments/assets/4dc0f618-3571-483f-a4ce-59bdabb4f11c)
 ![cml32](https://github.com/user-attachments/assets/1f8455b0-3d62-42d7-b541-bd7bcf4c347f)
 ![cml33](https://github.com/user-attachments/assets/7bf3b3ef-1381-4761-aa25-750ce106da01)
 ![cml34(1)](https://github.com/user-attachments/assets/9461cac6-b909-433b-800b-1306ac259385)
